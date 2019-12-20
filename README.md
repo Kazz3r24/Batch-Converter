@@ -1,7 +1,7 @@
 FFMPEG Batch Converter
 
-This script can be placed in any directory (preferrably your users home directory)
-Supported OS Linux, tested on Ubuntu 16.04
+This script can be placed in any directory (preferrably your users home directory).<br>
+Supported OS Linux, tested on Ubuntu 16.04<br>
 Requires latest version of FFMPEG available from https://ffmpeg.org/download.html
 
 Once you've downloaded the latest version, simply edit the script to point the FFMPEG variable to it's location on your system.
