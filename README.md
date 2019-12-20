@@ -1,5 +1,4 @@
-# Scripts
-Scripts for various puroses
+FFMPEG Batch Converter
 
 This script can be placed in any directory (preferrably your users home directory)
 Supported OS Linux, tested on Ubuntu 16.04
